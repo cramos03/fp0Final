@@ -6,6 +6,7 @@ let colorPicker;
 let menuWidth = 120
 let isSliderInteracted = false;
 
+
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(255);
